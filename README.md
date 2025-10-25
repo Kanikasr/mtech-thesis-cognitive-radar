@@ -15,7 +15,7 @@ This thesis explores the concept of **Cognitive Radar**, an intelligent radar sy
 - Conducted over **1000 recursive prediction–correction cycles** to evaluate convergence and minimize estimation error.  
 - Simulated the **tracking of a two-link robotic arm** using CKF in MATLAB.  
 - Applied **dynamic programming** at the transmitter for waveform optimization.  
-- Designed **neural feedback models** to establish a perception–action cycle between receiver and transmitter, enabling cognitive adaptability.  
+
 
 ---
 
