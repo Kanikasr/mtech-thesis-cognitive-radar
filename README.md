@@ -1,6 +1,6 @@
 # Cognitive Radar for Target Tracking
 
-**M.Tech Thesis | Defence Institute of Advanced Technology, Department of Electronics & Communication Engineering**  
+**M.Tech Thesis | Defence Institute of Advanced Technology, Department of Electronics & Communication Engineering (Radar and Communication)**  
 *Year: 2023 | Tools: MATLAB, Python*  
 
 ---
