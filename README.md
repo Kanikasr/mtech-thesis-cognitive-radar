@@ -1,5 +1,8 @@
 # Cognitive Radar for Target Tracking
 
+<img width="900" height="520" alt="image" src="https://github.com/user-attachments/assets/2c25e827-d6a4-4b59-b219-f377abe57a64" />
+
+
 **M.Tech Thesis | Defence Institute of Advanced Technology, Department of Electronics & Communication Engineering (Radar and Communication)**  
 *Year: 2023 | Tools: MATLAB, Python*  
 
@@ -16,6 +19,7 @@ This thesis explores the concept of **Cognitive Radar**, an intelligent radar sy
 - Simulated the **tracking of a two-link robotic arm** using CKF in MATLAB.  
 - Applied **dynamic programming** at the transmitter for waveform optimization.  
 
+<img width="720" height="361" alt="image" src="https://github.com/user-attachments/assets/f714146e-996a-422e-8172-b148f8b1a871" />
 
 ---
 
